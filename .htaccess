@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^Api/ApiSub$ Api/ApiSub.php [L]
+RewriteRule ^Api/ApiLike$ Api/ApiLike.php [L]
+
+
+
